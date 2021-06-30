@@ -1,0 +1,57 @@
+{
+  "name": "@murshidazher/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    ".eslintrc.js",
+    ".prettierrc",
+    ".npmrc",
+    "package.json",
+    "yarn.lock"
+  ],
+  "author": "Murshid Azher <hello@murshidazher.com> (https://murshidazher.com/)",
+  "license": "MIT",
+  "scripts": {
+    "precommit": "lint-staged",
+    "release": "auto shipit --base-branch=master",
+    "lint": "eslint ./ --ignore-path .gitignore",
+    "lint:fix": "npm run lint -- --fix",
+    "format": "prettier --write \"{,!(node_modules)/**/}*.js\" --config .prettierrc"
+  },
+  "keywords": [
+    "javascript",
+    "prettier",
+    "prettier-config",
+    "prettierconfig",
+    "murshidazher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murshidazher/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/murshidazher/prettier-config/issues"
+  },
+  "homepage": "https://github.com/murshidazher/prettier-config#readme",
+  "devDependencies": {
+    "auto": "^10.29.3",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "husky": "^7.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.2"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  },
+  "lint-staged": {
+    "*.{js,css,html}": [
+      "yarn run lint:fix",
+      "git add"
+    ]
+  }
+}
