@@ -1,13 +1,14 @@
-# @murshidazher/prettier-config
+# [@murshidazher/prettier-config](https://github.com/murshidazher/prettier-config) [![npm](https://img.shields.io/npm/v/prettier-config.svg?label=&color=0080FF)](https://github.com/murshidazher/prettier-config/releases/latest)
 
-> An opinionated prettier configuration to make linting a 🌬️.
+![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+> An opinionated prettier configuration to make linting a 🌬️. **Accepting PRs**
 
 Quickly format your JavaScript files with this easy to install and use Prettier configuration.
 
 ## Table of Contents
 
-- [@murshidazher/prettier-config](#murshidazherprettier-config)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
   - [Purpose](#purpose)
   - [Installation](#installation)
   - [How to use](#how-to-use)
