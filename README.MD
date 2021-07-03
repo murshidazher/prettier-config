@@ -12,6 +12,7 @@ Quickly format your JavaScript files with this easy to install and use Prettier 
   - [Purpose](#purpose)
   - [Installation](#installation)
   - [How to use](#how-to-use)
+  - [Contributors](#contributors)
   - [Contributing](#contributing)
   - [License](#license)
 
