@@ -1,4 +1,4 @@
-# [@murshidazher/prettier-config](https://github.com/murshidazher/prettier-config) [![npm](https://img.shields.io/npm/v/prettier-config.svg?label=&color=0080FF)](https://github.com/murshidazher/prettier-config/releases/latest)
+# [@murshidazher/prettier-config](https://github.com/murshidazher/prettier-config) [![npm](https://img.shields.io/npm/v/@murshidazher/prettier-config.svg?label=&color=0080FF)](https://github.com/murshidazher/prettier-config/releases/latest)
 
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
