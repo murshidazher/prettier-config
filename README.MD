@@ -62,6 +62,10 @@ module.exports = {
 };
 ```
 
+## Contributors
+
+[![contributors](https://contrib.rocks/image?repo=murshidazher/prettier-config)](https://github.com/murshidazher/prettier-config/graphs/contributors)
+
 ## Contributing
 
 How to [contribute](/CONTRIBUTING.MD) to this open source library
