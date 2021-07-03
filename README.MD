@@ -47,6 +47,21 @@ Under script objects
 "format": "prettier --write \"{,!(node_modules)/**/}*.js\""
 ```
 
+## Extending
+
+This configuration is not intended to be changed, but if you have a setup where modification is required, it is possible. Prettier does not offer an "extends" mechanism as you might be familiar from tools such as ESLint.
+
+To extend a configuration you will need to create either `.prettierrc.js` or `prettier.config.js` file:
+
+```js
+// .prettierrc.js
+module.exports = {
+    ...require('@murshidazher/prettier-config'),
+    semi: false
+    // more configuration options goes here!
+};
+```
+
 ## Contributing
 
 How to [contribute](/CONTRIBUTING.MD) to this open source library
