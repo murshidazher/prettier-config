@@ -1,5 +1,6 @@
 # [@murshidazher/prettier-config](https://github.com/murshidazher/prettier-config) [![npm](https://img.shields.io/npm/v/@murshidazher/prettier-config.svg?label=&color=0080FF)](https://github.com/murshidazher/prettier-config/releases/latest)
 
+![build: github workflow](https://img.shields.io/github/workflow/status/murshidazher/prettier-config/Release/master?style=flat-square)
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 > An opinionated prettier configuration to make linting a 🌬️. **Accepting PRs**
