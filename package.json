@@ -53,5 +53,8 @@
       "yarn run lint:fix",
       "git add"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
