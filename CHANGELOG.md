@@ -1,3 +1,15 @@
+# v1.0.3 (Sat Jul 03 2021)
+
+#### ⚠️ Pushed to `master`
+
+- :sparkles: feat: change workflow name ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v1.0.2 (Sat Jul 03 2021)
 
 #### ⚠️ Pushed to `master`
