@@ -38,7 +38,7 @@ yarn add -D prettier @murshidazher/prettier-config
 In your `package.json` add:
 
 ```sh
-"prettier": "@murshidazhers/prettier-config"
+"prettier": "@murshidazher/prettier-config"
 ```
 
 Under script objects
