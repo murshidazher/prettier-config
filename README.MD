@@ -53,4 +53,4 @@ How to [contribute](/CONTRIBUTING.MD) to this open source library
 
 ## License
 
-Copyright © 2020-2021 [Murshid Azher](https://murshidazher.com). This library is licensed under the MIT [license](./LICENCE).
+Copyright © 2020-2021 [Murshid Azher](https://murshidazher.com). This library is licensed under the [MIT](./LICENCE).
